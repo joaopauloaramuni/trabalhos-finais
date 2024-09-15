@@ -14,6 +14,7 @@ https://revista.ibict.br/ciinf/article/view/4407
 
 - Orientador:
 Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a>
+<br>https://www.luizmaia.com.br/
 
 - Programa de Pós-Graduação da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
 
@@ -30,6 +31,7 @@ https://www.revistas.usp.br/gestaodeprojetos/article/view/105650
 
 - Orientador:
 Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a>
+<br>https://www.luizmaia.com.br/
 
 - Programa de Pós-Graduação da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
 

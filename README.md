@@ -26,5 +26,8 @@ Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/650294287333
 
 **Bacharelado:** (2010-2013)
 
+Monografia:
+https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf
+
 Orientador:
 Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a>

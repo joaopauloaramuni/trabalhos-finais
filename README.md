@@ -6,6 +6,9 @@ Repo Trabalhos finais
 - Tema:
 Gestão Ágil do Conhecimento
 
+- Área de Concentração:
+Sistemas e Tecnologia da Informação
+
 - Tese:
 https://repositorio.fumec.br/handle/123456789/878
 
@@ -29,6 +32,9 @@ Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/356459730957
 
 - Tema:
 Gestão Ágil com Lean Manufacturing da Toyota
+
+- Área de Concentração:
+Sistemas de Informação
 
 - Dissertação:
 https://repositorio.fumec.br/handle/123456789/270

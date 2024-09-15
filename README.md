@@ -20,7 +20,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
 
-- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:
+- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
 **Mestrado em Sistemas de Informação e Gestão do Conhecimento:** (2014-2015)
@@ -42,7 +42,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
 
-- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:
+- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
 **Bacharelado em Ciência da Computação:** (2010-2013)

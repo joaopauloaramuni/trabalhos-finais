@@ -18,12 +18,12 @@ Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/650294287333
 - Grupo de pesquisa:
 LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a> - <a href="https://fumec.br/lais" target="_blank">~~Site~~</a>
 
-- Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
+- Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a> - <a href="http://ppg.fumec.br/sigc/" target="_blank">~~Old~~</a>
 
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
-- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc"  target="_blank">~~Old~~</a>
+- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
 
 **Mestrado em Sistemas de Informação e Gestão do Conhecimento:** (2014-2015)
 
@@ -42,12 +42,12 @@ Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/650294287333
 - Grupo de pesquisa:
 LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a> - <a href="https://fumec.br/lais" target="_blank">~~Site~~</a>
 
-- Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
+- Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a> - <a href="http://ppg.fumec.br/sigc/" target="_blank">~~Old~~</a>
 
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
-- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc"  target="_blank">~~Old~~</a>
+- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
 
 **Bacharelado em Ciência da Computação:** (2010-2013)
 

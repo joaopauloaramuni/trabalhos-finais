@@ -13,12 +13,15 @@ https://repositorio.fumec.br/handle/123456789/878
 https://revista.ibict.br/ciinf/article/view/4407
 
 - Orientador:
-Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
+Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/luiz-maia-56338724/" target="_blank">LinkedIn</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
 
 - Grupo de pesquisa:
 LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a>
 
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
+
+- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:
+Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
 **Mestrado em Sistemas de Informação e Gestão do Conhecimento:** (2014-2015)
 
@@ -32,12 +35,15 @@ https://repositorio.fumec.br/handle/123456789/270
 https://www.revistas.usp.br/gestaodeprojetos/article/view/105650
 
 - Orientador:
-Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
+Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/luiz-maia-56338724/" target="_blank">LinkedIn</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
 
 - Grupo de pesquisa:
 LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a>
 
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a>
+
+- Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:
+Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
 **Bacharelado em Ciência da Computação:** (2010-2013)
 
@@ -48,6 +54,6 @@ Desenvolvimento Ágil de Aplicações Web
 https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf
 
 - Orientador:
-Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a>
+Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/flávio-laper-16739595/" target="_blank">LinkedIn</a>
 
 - Bacharelado em Ciência da Computação da Universidade FUMEC - <a href="https://processoseletivo.fumec.br/cursos/ciencia-da-computacao/" target="_blank">Link</a>

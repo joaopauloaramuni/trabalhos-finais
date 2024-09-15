@@ -1,14 +1,14 @@
 # Trabalhos finais
 Repo Trabalhos finais
 
-Dissertação:
+**Mestrado** Dissertação:
 https://repositorio.fumec.br/handle/123456789/270
 
-Artigo:
+**Mestrado** Artigo:
 https://www.revistas.usp.br/gestaodeprojetos/article/view/105650
 
-Tese:
+**Doutorado**Tese:
 https://repositorio.fumec.br/handle/123456789/878
 
-Artigo:
+**Doutorado**Artigo:
 https://revista.ibict.br/ciinf/article/view/4407

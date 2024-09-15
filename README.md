@@ -23,7 +23,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
-- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a>
+- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc"  target="_blank">~~Old~~</a>
 
 **Mestrado em Sistemas de Informação e Gestão do Conhecimento:** (2014-2015)
 
@@ -47,7 +47,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
 
-- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a>
+- Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc"  target="_blank">~~Old~~</a>
 
 **Bacharelado em Ciência da Computação:** (2010-2013)
 

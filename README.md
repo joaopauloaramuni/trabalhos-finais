@@ -18,7 +18,7 @@ Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/650294287333
 **Mestrado:** (2014-2015)
 
 - Tema:
-Gestão Ágil com o Lean Manufacturing da Toyota
+Gestão Ágil com Lean Manufacturing da Toyota
 
 - Dissertação:
 https://repositorio.fumec.br/handle/123456789/270

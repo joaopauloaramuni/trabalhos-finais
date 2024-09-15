@@ -33,7 +33,7 @@ Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/356459730957
 - Tema:
 Gestão Ágil com Lean Manufacturing da Toyota
 
-Área de Concentração: 
+- Área de Concentração: 
 Sistemas e Tecnologia da Informação
 
 - Dissertação:

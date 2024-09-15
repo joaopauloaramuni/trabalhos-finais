@@ -43,3 +43,5 @@ https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf
 
 - Orientador:
 Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a>
+
+- Bacharelado em Ciência da Computação da Universidade FUMEC - <a href="https://processoseletivo.fumec.br/cursos/ciencia-da-computacao/" target="_blank">Link</a>

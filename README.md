@@ -61,3 +61,5 @@ https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf
 Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/flávio-laper-16739595/" target="_blank">LinkedIn</a>
 
 - Bacharelado em Ciência da Computação da Universidade FUMEC - <a href="https://processoseletivo.fumec.br/cursos/ciencia-da-computacao/" target="_blank">Link</a>
+
+- Revista Computação & Sociedade do curso de Ciência da Computação da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/computacaoesociedade" target="_blank">Link</a>

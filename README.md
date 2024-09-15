@@ -62,4 +62,4 @@ Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/712292983628947
 
 - Bacharelado em Ciência da Computação da Universidade FUMEC - <a href="https://processoseletivo.fumec.br/cursos/ciencia-da-computacao/" target="_blank">Link</a>
 
-- Revista Computação & Sociedade do curso de Ciência da Computação da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/computacaoesociedade" target="_blank">Link</a>
+- Revista "Computação & Sociedade" do curso de Ciência da Computação da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/computacaoesociedade" target="_blank">Link</a>

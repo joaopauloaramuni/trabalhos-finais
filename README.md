@@ -3,6 +3,9 @@ Repo Trabalhos finais
 
 **Doutorado:** (2017-2020)
 
+- Tema:
+Gestão Ágil do Conhecimento
+
 - Tese:
 https://repositorio.fumec.br/handle/123456789/878
 
@@ -13,6 +16,9 @@ https://revista.ibict.br/ciinf/article/view/4407
 Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a>
 
 **Mestrado:** (2014-2015)
+
+- Tema:
+Gestão Ágil com o Lean Manufacturing da Toyota
 
 - Dissertação:
 https://repositorio.fumec.br/handle/123456789/270
@@ -25,6 +31,9 @@ Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/650294287333
 
 
 **Bacharelado:** (2010-2013)
+
+- Tema:
+Desenvolvimento Ágil de Aplicações Web
 
 - Monografia:
 https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf

@@ -1,7 +1,7 @@
 # Trabalhos finais
 Repo Trabalhos finais
 
-**Mestrado:**
+**Mestrado:** (2014-2015)
 
 Dissertação:
 https://repositorio.fumec.br/handle/123456789/270
@@ -12,7 +12,7 @@ https://www.revistas.usp.br/gestaodeprojetos/article/view/105650
 Orientador:
 http://lattes.cnpq.br/6502942873335887
 
-**Doutorado:**
+**Doutorado:** (2017-2020)
 
 Tese:
 https://repositorio.fumec.br/handle/123456789/878

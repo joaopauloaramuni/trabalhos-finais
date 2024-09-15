@@ -21,7 +21,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a> - <a href="http://ppg.fumec.br/sigc/" target="_blank">~~Old~~</a>
 
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
-Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
+Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a> - <a href="https://about.me/fernandosilvaparreiras" target="_blank">Site</a>
 
 - Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
 
@@ -45,7 +45,7 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 - Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a> - <a href="http://ppg.fumec.br/sigc/" target="_blank">~~Old~~</a>
 
 - Coordenador do Programa de Pós-Graduação em SIGC da Universidade FUMEC:<br>
-Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a>
+Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a> - <a href="https://about.me/fernandosilvaparreiras" target="_blank">Site</a>
 
 - Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
 

@@ -6,7 +6,7 @@ Repo Trabalhos finais
 - Tema:
 Gestão Ágil do Conhecimento
 
-- Área de Concentração:
+- Linha de Pesquisa:
 Sistemas e Tecnologia da Informação
 
 - Tese:
@@ -33,7 +33,7 @@ Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/356459730957
 - Tema:
 Gestão Ágil com Lean Manufacturing da Toyota
 
-- Área de Concentração: 
+- Linha de Pesquisa: 
 Sistemas e Tecnologia da Informação
 
 - Dissertação:

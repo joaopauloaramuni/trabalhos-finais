@@ -9,6 +9,9 @@ Gestão Ágil do Conhecimento
 - Linha de Pesquisa:
 Sistemas e Tecnologia da Informação
 
+- Área de concentração:
+Gestão de Sistemas de Informação e do Conhecimento
+
 - Tese:
 https://repositorio.fumec.br/handle/123456789/878
 
@@ -35,6 +38,9 @@ Gestão Ágil com Lean Manufacturing da Toyota
 
 - Linha de Pesquisa: 
 Sistemas e Tecnologia da Informação
+
+- Área de concentração:
+Gestão de Sistemas de Informação e do Conhecimento
 
 - Dissertação:
 https://repositorio.fumec.br/handle/123456789/270

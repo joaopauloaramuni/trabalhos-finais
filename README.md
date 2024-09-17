@@ -67,7 +67,7 @@ Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/356459730957
 Desenvolvimento Ágil de Aplicações Web
 
 - Monografia (TCC):
-https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/Monografia.pdf
+https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/BACHARELADO/Monografia.pdf
 
 - Orientador:
 Prof. Dr. Flávio Velloso Laper - <a href="http://lattes.cnpq.br/7122929836289475" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/flávio-laper-16739595/" target="_blank">LinkedIn</a>

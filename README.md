@@ -1,5 +1,24 @@
 # Trabalhos finais
-Repo Trabalhos finais
+
+<div align="center">
+    <table>
+        <tr>
+         <td align="center"></td>
+        </tr> 
+        <tr>
+            <td>
+                <img alt="fumec" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fumec-logo.jpg?raw=true"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"></td>
+        </tr> 
+    </table>
+</div>
+
+-----
+
+# Repo Trabalhos finais
 
 **Doutorado em Sistemas de Informação e Gestão do Conhecimento:** (2017-2020)
 

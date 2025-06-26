@@ -20,6 +20,26 @@
 
 # Repo Trabalhos finais
 
+### Repositório de trabalhos finais do Prof. Dr. João Paulo C. Aramuni
+
+Este repositório reúne todos os meus trabalhos finais e apresentações de defesa ao longo da minha **trajetória acadêmica**, incluindo:
+
+- 🎓 **Graduação**  
+  - Monografia (TCC)  
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
+
+- 🎓 **Mestrado**  
+  - Dissertação  
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
+
+- 🎓 **Doutorado**  
+  - Tese  
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
+
+O objetivo deste repositório é organizar e disponibilizar, de forma acessível, todo o material produzido nas etapas finais de cada ciclo acadêmico.
+
+-----
+
 **Doutorado em Sistemas de Informação e Gestão do Conhecimento:** (2017-2020)
 
 - Tema:
@@ -50,6 +70,8 @@ Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/356459730957
 
 - Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
 
+-----
+
 **Mestrado em Sistemas de Informação e Gestão do Conhecimento:** (2014-2015)
 
 - Tema:
@@ -79,6 +101,8 @@ LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://ww
 Prof. Dr. Fernando Silva Parreiras - <a href="http://lattes.cnpq.br/3564597309576489" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/fparreiras/" target="_blank">LinkedIn</a> - <a href="https://about.me/fernandosilvaparreiras" target="_blank">Site</a>
 
 - Revista "Código 31" do Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="http://revista.fumec.br/index.php/codigo31" target="_blank">Link</a> - <a href="https://www.fumec.br/revistas/sigc" target="_blank">~~Old~~</a>
+
+-----
 
 **Bacharelado em Ciência da Computação:** (2010-2013)
 

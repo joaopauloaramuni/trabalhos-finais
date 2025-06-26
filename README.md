@@ -7,10 +7,10 @@
     </tr> 
     <tr>
       <td>
-        <img align="center" width="400px" src="https://joaopauloaramuni.github.io/image/fumec-logo2.png?raw=true" alt="fumec"/>
+        <img align="center" width="450px" src="https://joaopauloaramuni.github.io/image/fumec-logo2.png?raw=true" alt="fumec"/>
       </td>
       <td>
-        <img align="center" width="400px" src="https://joaopauloaramuni.github.io/image/fumec-hist.png?raw=true" alt="fumec-hist"/>
+        <img align="center" width="450px" src="https://joaopauloaramuni.github.io/image/fumec-hist.png?raw=true" alt="fumec-hist"/>
       </td>
     </tr>
     <tr>

@@ -44,26 +44,19 @@ O objetivo deste repositório é organizar e disponibilizar, de forma acessível
 
 #### 🎓 Doutorado em Sistemas de Informação e Gestão do Conhecimento: (2017-2020)
 
-- 🧠 Tema:  
-Gestão Ágil do Conhecimento
+- 🧠 Tema: Gestão Ágil do Conhecimento
 
-- 🧪 Linha de Pesquisa:  
-Sistemas e Tecnologia da Informação
+- 🧪 Linha de Pesquisa: Sistemas e Tecnologia da Informação
 
-- 🧭 Área de concentração:  
-Gestão de Sistemas de Informação e do Conhecimento
+- 🧭 Área de concentração: Gestão de Sistemas de Informação e do Conhecimento
 
-- 📄 Tese:  
-https://repositorio.fumec.br/handle/123456789/878
+- 📄 Tese: https://repositorio.fumec.br/handle/123456789/878
 
-- 📑 Artigo:  
-https://revista.ibict.br/ciinf/article/view/4407
+- 📑 Artigo: https://revista.ibict.br/ciinf/article/view/4407
 
-- 👨‍🏫 Orientador:  
-Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/luiz-maia-56338724/" target="_blank">LinkedIn</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
+- 👨‍🏫 Orientador: Prof. Dr. Luiz Cláudio Gomes Maia - <a href="http://lattes.cnpq.br/6502942873335887" target="_blank">Lattes</a> - <a href="https://www.linkedin.com/in/luiz-maia-56338724/" target="_blank">LinkedIn</a> - <a href="https://www.luizmaia.com.br/" target="_blank">Site</a>
 
-- 🧪 Grupo de pesquisa:  
-LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a> - <a href="https://fumec.br/lais" target="_blank">~~Site~~</a>
+- 🧪 Grupo de pesquisa: LAIS - Laboratório de Sistemas de Informação Avançados - <a href="https://www.linkedin.com/company/laisfumec/" target="_blank">Link</a> - <a href="https://fumec.br/lais" target="_blank">~~Site~~</a>
 
 - 🏫 Programa de Pós-Graduação em SIGC da Universidade FUMEC - <a href="https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento" target="_blank">Link</a> - <a href="http://ppg.fumec.br/sigc/" target="_blank">~~Old~~</a>
 

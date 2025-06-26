@@ -24,16 +24,16 @@
 
 Este repositório reúne todos os meus trabalhos finais e apresentações de defesa ao longo da minha **trajetória acadêmica**, incluindo:
 
-- 🎓 **Graduação**  
-  - Monografia (TCC)  
+- 🎓 **Doutorado(2017-2020)**  
+  - Tese  
   - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
-- 🎓 **Mestrado**  
+- 🎓 **Mestrado (2014-2015)**  
   - Dissertação  
   - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
-- 🎓 **Doutorado**  
-  - Tese  
+- 🎓 **Graduação (2010-2013)**  
+  - Monografia (TCC)  
   - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
 O objetivo deste repositório é organizar e disponibilizar, de forma acessível, todo o material produzido nas etapas finais de cada ciclo acadêmico.

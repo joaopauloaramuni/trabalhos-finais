@@ -40,6 +40,8 @@ O objetivo deste repositório é organizar e disponibilizar, de forma acessível
 
 -----
 
+### Detalhamento
+
 **Doutorado em Sistemas de Informação e Gestão do Conhecimento:** (2017-2020)
 
 - Tema:

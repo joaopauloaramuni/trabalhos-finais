@@ -1,19 +1,22 @@
 -----
 
 <div align="center">
-    <table>
-        <tr>
-         <td align="center"></td>
-        </tr> 
-        <tr>
-            <td>
-                <img alt="fumec" src="https://joaopauloaramuni.github.io/image/fumec-logo.jpg?raw=true"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center"></td>
-        </tr> 
-    </table>
+  <table>
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+    <tr>
+      <td>
+        <img align="center" width="400px" src="https://joaopauloaramuni.github.io/image/fumec-logo.jpg?raw=true" alt="fumec"/>
+      </td>
+      <td>
+        <img align="center" width="400px" src="https://joaopauloaramuni.github.io/image/fumec-logo.jpg?raw=true" alt="fumec-historia"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+  </table>
 </div>
 
 -----

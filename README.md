@@ -28,16 +28,16 @@
 Este repositório reúne todos os meus trabalhos finais e apresentações de defesa ao longo da minha **trajetória acadêmica**, incluindo:
 
 - 🎓 **Doutorado(2017-2020)**  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Tese.pdf" target="_blank">Tese</a>  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Defesa%20Tese.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
+  - 📝 <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Tese.pdf" target="_blank">Tese</a>  
+  - 🗣️ <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Defesa%20Tese.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
 
 - 🎓 **Mestrado (2014-2015)**  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/MESTRADO/Dissertac%CC%A7a%CC%83o.pdf" target="_blank">Dissertação</a>  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/MESTRADO/Defesa%20Dissertac%CC%A7a%CC%83o.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
+  - 📝 <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/MESTRADO/Dissertac%CC%A7a%CC%83o.pdf" target="_blank">Dissertação</a>  
+  - 🗣️ <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/MESTRADO/Defesa%20Dissertac%CC%A7a%CC%83o.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
 
 - 🎓 **Graduação (2010-2013)**  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/BACHARELADO/Monografia.pdf" target="_blank">Monografia (TCC)</a>  
-  - <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/BACHARELADO/Apresentac%CC%A7a%CC%83o%20TCC.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
+  - 📝 <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/BACHARELADO/Monografia.pdf" target="_blank">Monografia (TCC)</a>  
+  - 🗣️ <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/BACHARELADO/Apresentac%CC%A7a%CC%83o%20TCC.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
 
 O objetivo deste repositório é organizar e disponibilizar, de forma acessível, todo o material produzido nas etapas finais de cada ciclo acadêmico.
 

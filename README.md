@@ -29,7 +29,7 @@
 
 Este repositório reúne todos os meus trabalhos finais e apresentações de defesa ao longo da minha **trajetória acadêmica**, incluindo:
 
-- 🎓 **Doutorado(2017-2020)**  
+- 🎓 **Doutorado (2017-2020)**  
   - 📝 <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Tese.pdf" target="_blank">Tese</a>  
   - 🗣️ <a href="https://github.com/joaopauloaramuni/trabalhos-finais/blob/main/DOUTORADO/Defesa%20Tese.pdf" target="_blank">Apresentação</a> (Slides utilizados na defesa para a banca examinadora)
 

@@ -23,6 +23,8 @@
 
 # Repo Trabalhos Finais
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalhos-finais?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/trabalhos-finais?style=for-the-badge&logo=files) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalhos-finais?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/trabalhos-finais?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/python?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/python?style=for-the-badge&color=007ec6&logo=opensourceinitiative) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/joaopauloaramuni/trabalhos-finais?style=for-the-badge&color=007ec6&logo=gitkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalhos-finais?style=for-the-badge&logo=clockify) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%trabalhos-finais&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)  
+
 ### 🧑‍🏫 Repositório de trabalhos finais do Prof. Dr. João Paulo C. Aramuni
 
 Este repositório reúne todos os meus trabalhos finais e apresentações de defesa ao longo da minha **trajetória acadêmica**, incluindo:
